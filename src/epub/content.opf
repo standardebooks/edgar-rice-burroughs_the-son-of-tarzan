@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/the-son-of-tarzan</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-05-05T22:30:41Z</dc:date>
+		<meta property="dcterms:modified">2022-05-05T22:30:41Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,14 +44,14 @@
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">Upon discovering his father’s past life in the jungles of Africa, Tarzan’s son sets out to follow in his footsteps.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Following the events in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan"&gt;The Beasts of Tarzan&lt;/a&gt;&lt;/i&gt;, Tarzan and his wife, Jane, returned to England to raise their infant son, Jack. Now, ten years later, Jane has refused to allow Tarzan to share his past in the jungles with their son for fear of awakening a desire to follow in his footsteps. Unfortunately, Jack is already feeling drawn to Africa and when one of Tarzan’s old friends surfaces, Jack is quick to set out on his own adventure.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Son of Tarzan&lt;/i&gt; was originally published in &lt;i&gt;All-Story Weekly&lt;/i&gt; in a serial format between December 4, 1915 and January 8, 1916. It is the fourth book in the Tarzan series and is only entry without Tarzan as the main character. Since it’s initial publication, the book has been adapted to both film and comic.&lt;/p&gt;
+			&lt;p&gt;Following the events in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan"&gt;The Beasts of Tarzan&lt;/a&gt;&lt;/i&gt;, Tarzan and his wife, Jane, return to England to raise their infant son, Jack. Now, ten years later, Jane has refused to allow Tarzan to share his past in the jungles with their son for fear of awakening a desire in him to follow in his father’s footsteps. Unfortunately, Jack is already feeling drawn to Africa, and when one of Tarzan’s old friends surfaces, Jack is quick to set out on his own adventure.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Son of Tarzan&lt;/i&gt; was originally published as a serial in &lt;i&gt;All-Story Weekly&lt;/i&gt; between December 4, 1915 and January 8, 1916. It’s the fourth book in the Tarzan series, and is only entry without Tarzan as the main character. Since its initial publication, the book has been adapted to both film and comics.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/90</dc:source>
 		<dc:source>https://archive.org/details/sonoftarzan00burruoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">95679</meta>
+		<meta property="se:reading-ease.flesch">70.53</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Son_of_Tarzan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-son-of-tarzan</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -75,6 +75,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
