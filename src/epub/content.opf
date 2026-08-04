@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>Upon discovering his father’s past life in the jungles of Africa, Tarzan’s son sets out to follow in his footsteps.</dc:abstract>
+		<meta property="schema:abstract">Upon discovering his father’s past life in the jungles of Africa, Tarzan’s son sets out to follow in his footsteps.</meta>
 		<dc:description>
 			&lt;p&gt;Following the events in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan"&gt;The Beasts of Tarzan&lt;/a&gt;&lt;/i&gt;, Tarzan and his wife, Jane, return to England to raise their infant son, Jack. Now, ten years later, Jane has refused to allow Tarzan to share his past in the jungles with their son for fear of awakening a desire in him to follow in his father’s footsteps. Unfortunately, Jack is already feeling drawn to Africa, and when one of Tarzan’s old friends surfaces, Jack is quick to set out on his own adventure.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Son of Tarzan&lt;/i&gt; was originally published as a serial in &lt;i&gt;All-Story Weekly&lt;/i&gt; between December 4, 1915 and January 8, 1916. It’s the fourth book in the Tarzan series, and is only entry without Tarzan as the main character. Since its initial publication, the book has been adapted to both film and comics.&lt;/p&gt;
