@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Son of Tarzan</dc:title>
 		<meta property="file-as" refines="#title">Son of Tarzan, The</meta>
-		<dc:subject id="subject-1">Tarzan (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Tarzan (Fictitious character)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
